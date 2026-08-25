@@ -221,3 +221,14 @@ int main() {
 
     return 0;
 }
+//output:
+Enter number of processes: 3
+
+Enter Arrival Time for P1: 0
+Enter Burst Time for P1: 5
+
+Enter Arrival Time for P2: 1
+Enter Burst Time for P2: 3
+
+Enter Arrival Time for P3: 2
+Enter Burst Time for P3: 1
