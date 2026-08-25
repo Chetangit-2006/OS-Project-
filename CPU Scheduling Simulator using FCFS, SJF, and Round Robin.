@@ -1,8 +1,5 @@
-
 #include <stdio.h>
-
 #define MAX 50
-
 // Structure for Process
 struct Process {
     int pid;
