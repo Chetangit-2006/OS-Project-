@@ -232,3 +232,9 @@ Enter Burst Time for P2: 3
 
 Enter Arrival Time for P3: 2
 Enter Burst Time for P3: 1
+1. FCFS
+2. SJF
+3. Round Robin
+4. Exit
+
+Enter your choice: 1
